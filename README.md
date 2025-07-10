@@ -36,11 +36,13 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 ## 📂 Folder Structure
 
-project/
+```
 ├── index.html
 ├── style.css
-├── images/
-    ├── profile_pic.jpg
+├── profile_pic.jpg
+├── Resume.pdf (optional)
+├── script.js (optional, if using any JS)
+```
     
 ---
 
