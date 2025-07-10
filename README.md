@@ -1,4 +1,4 @@
-# 🌟 Tathagata Das | Personal Portfolio Website
+# Tathagata Das | Personal Portfolio Website
 
 Welcome to my personal portfolio website repository!  
 This site showcases who I am, my skills, education, experience, projects, and how to get in touch with me.
