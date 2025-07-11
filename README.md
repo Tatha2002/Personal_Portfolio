@@ -52,8 +52,11 @@ It’s designed to help me share my background, showcase my work, and connect wi
    ```bash
    git clone https://github.com/your-username/your-portfolio-repo.git
 
-📬 Contact
-📧 Email: tathagatadas2002@gmail.com
-📞 Phone: +91 9432129195
-📍 Location: Kolkata, West Bengal
-🌐 LinkedIn: linkedin.com/in/tathagata-das94
+## Contact
+
+📧 Email: yourmail@example.com
+
+📞 Phone: +91 1234567890
+
+📍 Location: Kolkata, India
+
