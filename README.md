@@ -35,7 +35,7 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 # Screenshots
 
-![Homepage](images/SS1.JPG)
+![Homepage](images/SS 1.JPG)
 
 ---
 
