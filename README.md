@@ -48,7 +48,10 @@ Include some screenshots showcasing different sections of your website.
 ```
 ├── index.html
 ├── style.css
-├── profile_pic.jpg
+├── images/
+     └── profile pic.jpg
+     └── SS1.jpg
+     └── SS2.jpg
 ├── Resume.pdf (optional)
 ├── script.js (optional, if using any JS)
 ```
@@ -63,9 +66,7 @@ Include some screenshots showcasing different sections of your website.
 
 ## Contact
 
--📧 Email: tathagatadas2002@gmail.com
-
--📞 Phone: +91 9432129195
-
--📍 Location: West Bengal, Kolkata - 84
+- Email: tathagatadas2002@gmail.com
+- Phone: +91 9432129195
+- Location: West Bengal, Kolkata - 84
 
