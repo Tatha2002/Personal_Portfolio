@@ -35,7 +35,10 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 # Screenshots
 
+Include some screenshots showcasing different sections of your website.
+
 ![Homepage](images/SS1.JPG)
+![Bottompage](images/SS2.JPG)
 
 ---
 
