@@ -35,7 +35,9 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 # Screenshots
 
-![Homepage](images/SS1.jpeg)
+![Homepage](images/SS1.JPG)
+
+---
 
 ## 📂 Folder Structure
 
