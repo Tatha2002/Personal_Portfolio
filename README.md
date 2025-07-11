@@ -54,6 +54,8 @@ It’s designed to help me share my background, showcase my work, and connect wi
 ## Contact
 
 -📧 Email: tathagatadas2002@gmail.com
+
 -📞 Phone: +91 9432129195
+
 -📍 Location: West Bengal, Kolkata - 84
 
