@@ -25,7 +25,7 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **HTML**
 - **CSS**
@@ -33,7 +33,7 @@ It’s designed to help me share my background, showcase my work, and connect wi
 
 ---
 
-# Screenshots
+## Screenshots
 
 Include some screenshots showcasing different sections of your website.
 
@@ -58,7 +58,7 @@ Include some screenshots showcasing different sections of your website.
     
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone the repository**
    ```bash
