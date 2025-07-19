@@ -67,6 +67,6 @@ Include some screenshots showcasing different sections of your website.
 ## Contact
 
 - Email: tathagatadas2002@gmail.com
-- Phone: +91 9432129195
+- LinkedIn: (https://www.linkedin.com/in/tathagata-das94/)
 - Location: West Bengal, Kolkata - 84
 
